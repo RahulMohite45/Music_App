@@ -29,11 +29,11 @@ This app lets users browse songs, play music, manage playlists, and enjoy an int
 
 ---
 
-💡 Possible Improvements / Future Work
+## 💡 Possible Improvements / Future Work
 
--Improve UI animations, transitions
--Fetch lyrics / album art from online APIs
--Add streaming support
--Offline caching
--Support more audio formats
--Subscription
+- Improve UI animations and transitions
+- Fetch lyrics and album art from online APIs
+- Add streaming support for online songs
+- Implement offline caching of songs
+- Support additional audio formats (e.g., FLAC, OGG)
+- Add user subscription and premium features
